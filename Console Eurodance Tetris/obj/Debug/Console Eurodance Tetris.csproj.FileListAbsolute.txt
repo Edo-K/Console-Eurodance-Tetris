@@ -1,0 +1,25 @@
+C:\Users\Edo Komljenovic\Desktop\Console Eurodance Tetris\Console Eurodance Tetris\bin\Debug\Console Eurodance Tetris.exe.config
+C:\Users\Edo Komljenovic\Desktop\Console Eurodance Tetris\Console Eurodance Tetris\bin\Debug\Console Eurodance Tetris.exe
+C:\Users\Edo Komljenovic\Desktop\Console Eurodance Tetris\Console Eurodance Tetris\bin\Debug\Console Eurodance Tetris.pdb
+C:\Users\Edo Komljenovic\Desktop\Console Eurodance Tetris\Console Eurodance Tetris\obj\Debug\Interop.WMPLib.dll
+C:\Users\Edo Komljenovic\Desktop\Console Eurodance Tetris\Console Eurodance Tetris\obj\Debug\Console Eurodance Tetris.csproj.ResolveComReference.cache
+C:\Users\Edo Komljenovic\Desktop\Console Eurodance Tetris\Console Eurodance Tetris\obj\Debug\Console Eurodance Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Edo Komljenovic\Desktop\Console Eurodance Tetris\Console Eurodance Tetris\obj\Debug\Console Eurodance Tetris.exe
+C:\Users\Edo Komljenovic\Desktop\Console Eurodance Tetris\Console Eurodance Tetris\obj\Debug\Console Eurodance Tetris.pdb
+D:\File\Tetris projekt\Console Eurodance Tetris\Console Eurodance Tetris\bin\Debug\Console Eurodance Tetris.exe.config
+D:\File\Tetris projekt\Console Eurodance Tetris\Console Eurodance Tetris\bin\Debug\Console Eurodance Tetris.exe
+D:\File\Tetris projekt\Console Eurodance Tetris\Console Eurodance Tetris\bin\Debug\Console Eurodance Tetris.pdb
+D:\File\Tetris projekt\Console Eurodance Tetris\Console Eurodance Tetris\obj\Debug\Interop.WMPLib.dll
+D:\File\Tetris projekt\Console Eurodance Tetris\Console Eurodance Tetris\obj\Debug\Console Eurodance Tetris.csproj.ResolveComReference.cache
+D:\File\Tetris projekt\Console Eurodance Tetris\Console Eurodance Tetris\obj\Debug\Console Eurodance Tetris.csproj.CoreCompileInputs.cache
+D:\File\Tetris projekt\Console Eurodance Tetris\Console Eurodance Tetris\obj\Debug\Console Eurodance Tetris.exe
+D:\File\Tetris projekt\Console Eurodance Tetris\Console Eurodance Tetris\obj\Debug\Console Eurodance Tetris.pdb
+C:\Users\Edo\Desktop\Console Eurodance Tetris\Console Eurodance Tetris\bin\Debug\Console Eurodance Tetris.exe.config
+C:\Users\Edo\Desktop\Console Eurodance Tetris\Console Eurodance Tetris\bin\Debug\Console Eurodance Tetris.exe
+C:\Users\Edo\Desktop\Console Eurodance Tetris\Console Eurodance Tetris\bin\Debug\Console Eurodance Tetris.pdb
+C:\Users\Edo\Desktop\Console Eurodance Tetris\Console Eurodance Tetris\obj\Debug\Console Eurodance Tetris.csprojAssemblyReference.cache
+C:\Users\Edo\Desktop\Console Eurodance Tetris\Console Eurodance Tetris\obj\Debug\Interop.WMPLib.dll
+C:\Users\Edo\Desktop\Console Eurodance Tetris\Console Eurodance Tetris\obj\Debug\Console Eurodance Tetris.csproj.ResolveComReference.cache
+C:\Users\Edo\Desktop\Console Eurodance Tetris\Console Eurodance Tetris\obj\Debug\Console Eurodance Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Edo\Desktop\Console Eurodance Tetris\Console Eurodance Tetris\obj\Debug\Console Eurodance Tetris.exe
+C:\Users\Edo\Desktop\Console Eurodance Tetris\Console Eurodance Tetris\obj\Debug\Console Eurodance Tetris.pdb
